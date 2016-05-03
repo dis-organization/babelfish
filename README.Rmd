@@ -2,7 +2,6 @@
 output: github_document
 ---
 
-[![Travis-CI Build Status](https://travis-ci.org/mdsumner/spbabel.svg?branch=master)](https://travis-ci.org/mdsumner/spbabel)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -14,13 +13,8 @@ knitr::opts_chunk$set(
 )
 library(dplyr)
 ```
-## Installation
 
-Spbabel can be installed directly from github: 
-
-```{r,eval=FALSE}
-devtools::install_github("mdsumner/spbabel")
-```
+```{r}
 # spbabel: bisque or bouillon?
 
 Part of an effort towards dplyr/table-fication of Spatial classes and the spatial-zoo in R. Inspired by Eonfusion and Manifold and dplyr and Douglas Adams and spurned on by helpful twitter and ropensci discussions. 

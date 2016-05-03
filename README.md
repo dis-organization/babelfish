@@ -1,18 +1,7 @@
 
-[![Travis-CI Build Status](https://travis-ci.org/mdsumner/spbabel.svg?branch=master)](https://travis-ci.org/mdsumner/spbabel)
+This is leftovers from spbabel, being moved either to gris or other packages. 
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-Installation
-------------
 
-Spbabel can be installed directly from github:
-
-``` r
-devtools::install_github("mdsumner/spbabel")
-```
-
-spbabel: bisque or bouillon?
-============================
 
 Part of an effort towards dplyr/table-fication of Spatial classes and the spatial-zoo in R. Inspired by Eonfusion and Manifold and dplyr and Douglas Adams and spurned on by helpful twitter and ropensci discussions.
 
